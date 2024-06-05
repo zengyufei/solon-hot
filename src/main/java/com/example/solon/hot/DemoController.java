@@ -12,10 +12,10 @@ public class DemoController {
     }
 //    @Mapping("/ccc")
 //    public String ccc(@Param(defaultValue = "world") String name) {
-//        return String.format("Hello %s!", name);
+//        return String.format("ccc %s!", name);
 //    }
 //    @Mapping("/bbb")
 //    public String bbb(@Param(defaultValue = "world") String name) {
-//        return String.format("Hello %s!", name);
+//        return String.format("bbb %s!", name);
 //    }
 }

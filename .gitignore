@@ -3,6 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
+hotseconds_trace
+hotseconds.log
+hotseconds_core.log
 .apt_generated
 .classpath
 .factorypath
